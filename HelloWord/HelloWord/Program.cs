@@ -16,7 +16,7 @@ namespace HelloWord
         }
         public static string CreateMessage()
         {
-            return "HelloWord";
+            return "HelloWord!!";
         }
 
     }
